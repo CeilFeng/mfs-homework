@@ -3,13 +3,33 @@
 在VScode中如果想要获取快捷键列表，依次按下  
 >ctrl+k、ctrl+s   
 
-可以查看全部的快捷键功能，如：  
-<br/> 
-command|Keybinding|When    |Source
-:-------:|:------:|:------:|:----:
-Go to file| ctrl+e|———|Default
-Cut|ctrl+X|textInputFocus & !editorReadonly|Default  
-Copy| ctrl+c|textInputFocus|Defaul
+可以查看全部的快捷键功能，如：
+ <table>
+        <tr>
+            <th>command</th>
+            <th>Keybinding</th>
+            <th>When</th>
+            <th>Source</th>
+        </tr>
+        <tr>
+            <th>Go to file</th>
+            <th>ctrl+e</th>
+            <th>———</th>
+            <th>Default</th>
+        </tr>
+        <tr>
+            <th>Cut</th>
+            <th>ctrl+X</th>
+            <th>textInputFocus & !editorReadonly</th>
+            <th>Defaul</th>
+        </tr>
+        <tr>
+            <th>Copy</th>
+            <th>ctrl+c</th>
+            <th>textInputFocus</th>
+            <th>Defaul</th>
+        </tr>
+    </table>         
 
 ******************     
 ### 2. *VScode*插件的安装与卸载:
