@@ -1,5 +1,8 @@
-# ***Visual Studio Code*常用功能说明:**
-### 1. *VScode*快捷键说明：
+# FengC2的作业库
+> 码蜂社 前端基础班 作业答题库
+**码蜂社和XXX版权所有，转载请注明出处**
+## ***Visual Studio Code*常用功能说明:**
+#### 1. *VScode*快捷键说明：
 在VScode中如果想要获取快捷键列表，依次按下  
 >ctrl+k、ctrl+s   
 
@@ -32,7 +35,7 @@
     </table>         
 
 ******************     
-### 2. *VScode*插件的安装与卸载:
+#### 2. *VScode*插件的安装与卸载:
 * 安装插件教程：  
    （1）打开VScode，在左侧栏找到Extensions（ctrl+shif+x）；    
    （2）在搜索框中输入你想要按照安装的插件名称；  
@@ -42,5 +45,5 @@
    （1）在ENABLED列表中找到相应插件；    
    （2）单机右键，选择“uninstall”；    
    （3）等待片刻，卸载完毕。
-### 3. 在*VScode*中使用*Git*：    
+#### 3. 在*VScode*中使用*Git*：    
 这里参考网上的教程：[链接](https://blog.csdn.net/jiangyu1013/article/details/84031418)
