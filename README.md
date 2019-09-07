@@ -4,35 +4,14 @@
 >ctrl+k、ctrl+s   
 
 可以查看全部的快捷键功能，如：  
- <table>
-        <tr>
-            <th>command</th>
-            <th>Keybinding</th>
-            <th>When</th>
-            <th>Source</th>
-        </tr>
-        <tr>
-            <th>Go to file</th>
-            <th>ctrl+e</th>
-            <th>———</th>
-            <th>Default</th>
-        </tr>
-        <tr>
-            <th>Cut</th>
-            <th>ctrl+X</th>
-            <th>ctrl+X|textInputFocus & !editorReadonly1</th>
-            <th>Default</th>
-        </tr>
-        <tr>
-            <th>Copy</th>
-            <th>ctrl+c</th>
-            <th>textInputFocus</th>
-            <th>Defaul</th>
-        </tr>
-    </table>   
-    
-******************
+<br/> 
+command|Keybinding|When    |Source
+:-------:|:------:|:------:|:----:
+Go to file| ctrl+e|———|Default
+Cut|ctrl+X|textInputFocus & !editorReadonly|Default  
+Copy| ctrl+c|textInputFocus|Defaul
 
+******************     
 ### 2. *VScode*插件的安装与卸载:
 * 安装插件教程：  
    （1）打开VScode，在左侧栏找到Extensions（ctrl+shif+x）；    
