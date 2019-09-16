@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>表单练习</title>
+</head>
+
+<body>
+    <form action="#" methods="POST">
+        <div>邮箱<input type="email" name="email" required></div>
+        <div>偶数<input type="number", name="number", min="0", max="100", step="2"></div>
+        <div>城市<input list="cities">
+            <datalist id="cities">
+                <option value="北京">
+                <option value="上海">
+                <option value="广州">
+                <option value="深圳">
+            </datalist>
+        </div>
+        <div><button type="submit">提交</btton></div>
+    </form>
+
+</body>
+
+</html>
